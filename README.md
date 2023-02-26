@@ -29,4 +29,4 @@ Este projeto foi feito com as seguintes tecnologias:
 Essa calculadora faz o calculo de Soma, Subtração, Divisão e Multiplicação. 
 
 ## ⬇️ Baixar
-Caso você tenha interesse de baixar a Calculadora. Entre no meu [Portfólio](./Calculadora/bin/Debug/Calculadora.exe) e clique no botão "Projects" que naquela página vai ter o botão para você baixar projeto.
+Caso você tenha interesse de baixar a Calculadora. Entre no meu [Portfólio](https://CleoLeal.github.io/Portfolio) e clique no botão "Projects" que naquela página vai ter o botão para você baixar projeto.
