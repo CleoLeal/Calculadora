@@ -27,19 +27,19 @@ Você faz a escolha de qual calculadora você gostaria de usar:
   <img src="./image/escolha.png" width="50%">
 </p>
 
-#### <img src="./image/calculadora.ico" width="7%"> Calculadora
+#### <img src="./image/calculadora.ico" width="5%"> Calculadora
 Na "Calculadora" você consegue fazer conta de Soma, Subtração, Multiplicação e Divisão. 
 <p align="center">
   <img alt="Calculadora" src="./image/calculadora.png" width="50%">
 </p>
 
-#### <img alt="Converter Temperatura" src="./image/temperatura.ico" width="7%"> Convertedno Temperatura
+#### <img alt="Converter Temperatura" src="./image/temperatura.ico" width="5%"> Convertedno Temperatura
 No "Convertendo Temperatura" você consegue converter as Temperaturas mais usadas pelo mundo.
 <p align="center">
   <img alt="Minha calculadora" src="./image/converterTemperatura.png" width="50%">
 </p>
 
-#### <img alt="Converter Moeda" src="./image/moeda.ico" width="7%"> Convertendo Moeda
+#### <img alt="Converter Moeda" src="./image/moeda.ico" width="5%"> Convertendo Moeda
 No "Convertendo Moeda" você consegue converter as Moedas mais conhecidas por nós Brasileiros.
 <p align="center">
   <img alt="Minha calculadora" src="./image/converterMoeda.png" width="50%">
