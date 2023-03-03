@@ -1,7 +1,7 @@
-<h1 align="center"> Calculadora </h1>
+<h1 align="center"> Calculando </h1>
 
 <p align="center">
-Calculadora feita em C# e Windows Form
+É um projeto feito em C# e Windows Form. No Calculando tem 3 projetos: Calculadora, Convertendo Temperatura e Convertendo 
 </p>
 
 <p align="center">
@@ -11,10 +11,6 @@ Calculadora feita em C# e Windows Form
 </p>
 
 <br>
-
-<p align="center">
-  <img alt="Minha calculadora" src="./image/calculadora.jpg" width="50%">
-</p>
 
 ## 🚀 Tecnologias  
 
@@ -26,7 +22,29 @@ Este projeto foi feito com as seguintes tecnologias:
 
 ## 🧮 Sobre
 
-Essa calculadora faz o calculo de Soma, Subtração, Divisão e Multiplicação. 
+Você faz a escolha de qual calculadora você gostaria de usar:
+<p align="center">
+  <img src="./image/escolha.png" width="50%">
+</p>
+
+#### <img src="./image/calculadora.ico" width="7%"> Calculadora
+Na "Calculadora" você consegue fazer conta de Soma, Subtração, Multiplicação e Divisão. 
+<p align="center">
+  <img alt="Calculadora" src="./image/calculadora.png" width="50%">
+</p>
+
+#### <img alt="Converter Temperatura" src="./image/temperatura.ico" width="7%"> Convertedno Temperatura
+No "Convertendo Temperatura" você consegue converter as Temperaturas mais usadas pelo mundo.
+<p align="center">
+  <img alt="Minha calculadora" src="./image/converterTemperatura.png" width="50%">
+</p>
+
+#### <img alt="Converter Moeda" src="./image/moeda.ico" width="7%"> Convertendo Moeda
+No "Convertendo Moeda" você consegue converter as Moedas mais conhecidas por nós Brasileiros.
+<p align="center">
+  <img alt="Minha calculadora" src="./image/converterMoeda.png" width="50%">
+</p>
+
 
 ## ⬇️ Baixar
-Caso você tenha interesse de baixar a Calculadora. Entre no meu [Portfólio](https://CleoLeal.github.io/Portfolio) e clique no botão "Projects" que naquela página vai ter o botão para você baixar projeto.
+Caso você tenha interesse de baixar o meu Projeto. Entre no meu [Portfólio](https://CleoLeal.github.io/Portfolio) e clique no botão "Projects" que naquela página vai ter o botão para você baixar projeto.
